@@ -1,0 +1,22 @@
+{
+  "name": "network_infra",
+  "version": "1.0.0",
+  "description": "When we run interactive online network experiments, we often recruit a group of participants to synchronously complete a sequence of tasks together over a fixed duration of time. These tasks may be at the level of individuals (e.g., filling out questionnaires), dyads (e.g., two-person chat), or groups (e.g., collaborative document editing). However, before participants can begin an experiment’s tasks, we must (a) have a minimum number of participants to join the experiment, then (b) randomly assign them to network positions (nodes). Depending on the experiment, we manipulate which network ties (edges) exist between different participants over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "network",
+    "experiment",
+    "synchronization"
+  ],
+  "author": "Tai Sanh Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "cytoscape": "^3.28.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
