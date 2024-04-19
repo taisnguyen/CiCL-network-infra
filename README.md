@@ -1,7 +1,10 @@
 ## Network Infra Project
 
-A library  to build interactive online network experiments. This library should be hooked up to a larger system that provides interactivity to users (e.g., socket-based server and web application). Provides a simple implementation of a dyadic conversation experiment.
+A library to build interactive online network experiments. This library should be hooked up to a larger system that provides interactivity to users (e.g., socket-based server and web application). Provides a simple implementation of a dyadic conversation experiment.
 
+
+### References
+Please see the [specifications repository](https://github.com/comanlab/technical-evaluations).
 
 ### Installation
 
